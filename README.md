@@ -1,6 +1,6 @@
 # hello-world
 This is the first repo, with a README
 
-I am a technical training instructor for the Cloudera training team and part of the Field Customer Enablement team.
-I teach Java MapReduce Application Development, Spark Application Development, Developing Applications with Hadoop and Spark, Designing and Building Big Data Applications with CDH, Data Analysis with Pig, Hive, and Impala in CDH.
-My future courses include Administration, Cloudera Search, and Data Science.
+I am a technical training instructor for the Snowflake training team and part of the Professional Services team.  
+I teach Fundamentals, Advanced, Data Analyst, and Data Engineering.  
+My future courses include Data Science, Performance, and Administration.  
